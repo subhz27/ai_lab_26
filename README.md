@@ -2,6 +2,12 @@
 
 This repository contains my Artificial Intelligence and Machine Learning laboratory assignments completed as part of my B.Tech CSE (AI & ML) coursework.
 
+<img width="670" height="320" alt="images" src="https://github.com/user-attachments/assets/5cfa7d61-4485-4ff5-9ded-41cdf3d32ef1" />
+
+
+
+
+
 ## Student Information
 
 - **Name:** Subhabrata
@@ -31,9 +37,3 @@ This repository contains my Artificial Intelligence and Machine Learning laborat
 - Scikit-learn
 - Git & GitHub
 
-## How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/subhz27/ai_lab_26.git
