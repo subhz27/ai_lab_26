@@ -16,15 +16,6 @@ This repository contains my Artificial Intelligence and Machine Learning laborat
 - **University:** Brainware University
 - **Academic Year:** 2026
 
-## Contents
-
-| Assignment | Description |
-|------------|-------------|
-| Assignment 1 | Python / NumPy / Matplotlib based laboratory tasks |
-| Assignment 2 | Data analysis and visualization tasks |
-| Assignment 3 | Data processing and analysis |
-| Assignment 4 | Machine Learning / AI laboratory exercises |
-| Assignment 5 | Machine Learning / AI laboratory exercises |
 
 ## Technologies Used
 
